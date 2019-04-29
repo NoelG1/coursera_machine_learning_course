@@ -13,3 +13,71 @@ Unsupervised Learning,
 Anomaly Detection,
 Reccomender Systems, and
 Large Scale Machine Learning
+
+Exercise 1 in Week 2
+
+Computing Cost (for One Variable)	
+Gradient Descent (for One Variable)
+Feature Normalization
+Computing Cost (for Multiple Variables)
+Gradient Descent (for Multiple Variables)
+Normal Equations
+
+
+Exercise 2 in Week 3
+
+Sigmoid Function
+Logistic Regression Cost
+Logistic Regression Gradient
+Predict
+Regularized Logistic Regression Cost
+Regularized Logistic Regression Gradient
+
+Exercise 3 in Week 4
+
+Regularized Logistic Regression
+One-vs-All Classifier Training
+One-vs-All Classifier Prediction	
+Neural Network Prediction Function	
+
+Exercise 4 in Week 5
+
+Feedforward and Cost Function
+Regularized Cost Function	
+Sigmoid Gradient
+Neural Network Gradient (Backpropagation)
+Regularized Gradient	
+
+Exercise 5 in Week 6
+
+Regularized Linear Regression Cost Function	
+Regularized Linear Regression Gradient	
+Learning Curve	
+Polynomial Feature Mapping	
+Validation Curve	
+
+Exercise 6 in Week 7
+
+Gaussian Kernel	
+Parameters (C, sigma) for Dataset 3	
+Email Preprocessing	
+Email Feature Extraction	
+
+Exercise 7 in Week 8
+
+Find Closest Centroids (k-Means)	
+Compute Centroid Means (k-Means)	
+PCA	
+Project Data (PCA)	
+Recover Data (PCA)	
+
+Exercise 8 in Week 9
+
+Estimate Gaussian Parameters	
+Select Threshold	
+Collaborative Filtering Cost	
+Collaborative Filtering Gradient	
+Regularized Cost	
+Regularized Gradient	
+
+
